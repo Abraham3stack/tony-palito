@@ -50,11 +50,11 @@ export const certificationsData = [
   },
   {
     id: 4,
-    title: "First Aid Certification",
+    title: "Thailand Football Coaches Association Certificate",
     issuer: "Sports Body",
     year: "2024",
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776239835/Screenshot_2_mu0lac.png",
-    pdf: "/certificates/playmaker-certificate.pdf",
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776288406/coaches-association_vvkjtw.png",
+    pdf: "/certificates/coaches-association.pdf",
   },
   {
     id: 5,
@@ -93,8 +93,8 @@ export const certificationsData = [
     title: "FA Thailand Diploma",
     issuer: "United IFL",
     year: "2025",
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776244500/att.KkXTGGbcAMmnXlMgVCJn4bolv6Z3jKwxypJ6rer1FeY_jpz8ft.jpg",
-    pdf: "/certificates/fa-thailand-diploma.pdf.pdf",
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776288511/Screenshot_slxljb.png",
+    pdf: "/certificates/fa-thailand-diploma.pdf",
   },
 ];
 
