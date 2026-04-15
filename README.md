@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚽ Coach Portfolio Website
 
-## Getting Started
+A modern, responsive portfolio website built for football coaches to showcase their experience, achievements, and services.
 
-First, run the development server:
+## 🚀 Features
+
+- Hero section with strong personal branding
+- About & Achievements sections
+- Certifications (PDF + image preview)
+- Gallery with lightbox
+- Services section
+- Contact (WhatsApp, Email, Socials)
+- CV download (View Full Profile)
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## 📦 Getting Started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌐 Deployment
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is ready for deployment on Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Steps:
+1. Push code to GitHub
+2. Import project on Vercel
+3. Click Deploy
 
-## Learn More
+## 📁 Important Notes
 
-To learn more about Next.js, take a look at the following resources:
+- Add your CV to:
+  ```
+  /public/cv.pdf
+  ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Update content in:
+  ```
+  /src/lib/data.ts
+  ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Cloudinary is used for images and videos
 
-## Deploy on Vercel
+## 👨‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Built by Abraham  
+https://portfolio-2-azure-delta.vercel.app/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+# ✅ 3. Now your first commit
+
+Since this is initial:
+
+```bash
+git init
+git add .
+git commit -m "initial commit: coach portfolio template"
+git branch -M main
+git remote add origin YOUR_REPO_URL
+git push -u origin main
