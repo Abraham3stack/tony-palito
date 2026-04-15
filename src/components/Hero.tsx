@@ -48,6 +48,9 @@ export function Hero() {
           <p className="text-xl md:text-2xl text-gray-200 mb-4 font-outfit">
             {heroData.title}
           </p>
+          <p className="text-sm md:text-base text-gray-300 mb-4 font-outfit">
+            📍 Based in Bangkok, Thailand
+          </p>
           <p className="text-lg text-gray-300 mb-10 max-w-2xl mx-auto">
             {heroData.tagline}
           </p>

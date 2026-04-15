@@ -6,7 +6,7 @@ import { Play } from "lucide-react";
 import { Section } from "@/components/ui/Section";
 
 export function Video() {
-  const videoUrl = "https://res.cloudinary.com/dwbfks5og/video/upload/q_auto/f_auto/v1776247760/copy_3E8BA441-6DF8-4716-B4F0-DEAB6DC123A9_u85kqi.mov";
+  const videoUrl = "https://res.cloudinary.com/dwbfks5og/video/upload/q_auto/f_auto/v1776285810/toni-video_djzsvw.mov";
   
   const thumbnail = "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776248112/photo-output_3_z9bfdu.jpg";
 

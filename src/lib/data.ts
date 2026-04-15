@@ -1,7 +1,7 @@
 export const heroData = {
   name: "Tony Palito Ojeabulu",
-  title: "Football Coach & Player Development Specialist",
-  tagline: "Developing young talents into elite footballers",
+  title: "Football Coach | Youth Development Specialist (Mini kickers to U17)",
+  tagline: "Developing young players through structured training, discipline, and modern football techniques.",
   ctaPrimary: "View Profile",
   ctaSecondary: "View Full Profile",
   image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776164232/att.d-dOI9-Hj2HBN1vY4uLEL1NMgGWHrsV_8f0rECO3LYo_wjr49c.jpg",
