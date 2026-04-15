@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { MessageCircle, Mail } from "lucide-react";
-import { FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaInstagram, FaYoutube, FaFacebook } from "react-icons/fa";
 import { Section } from "@/components/ui/Section";
 import { Button } from "@/components/ui/Button";
 import { contactData } from "@/lib/data";
@@ -32,10 +32,10 @@ export function Contact() {
           <a href={`${contactData.whatsapp}?text=Hi%20Coach%2C%20I%20want%20to%20join%20your%20program`} target="_blank" rel="noopener noreferrer">
             <Button size="lg">
               <MessageCircle size={20} className="mr-2" />
-              WhatsApp
+              Message on WhatsApp
             </Button>
           </a>
-          <a href={`mailto:${(contactData as any).email || ""}`}>
+          <a href={`mailto:${contactData.email}`}>
             <Button size="lg" variant="secondary">
               <Mail size={20} className="mr-2" />
               Email Me
@@ -62,6 +62,14 @@ export function Contact() {
             className="p-3 glass rounded-full text-text-secondary hover:text-accent hover:bg-accent/10 transition-all hover:scale-110"
           >
             <FaYoutube size={22} />
+          </a>
+          <a
+            href={contactData.facebook}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3 glass rounded-full text-text-secondary hover:text-accent hover:bg-accent/10 transition-all hover:scale-110"
+          >
+            <FaFacebook size={22} />
           </a>
         </div>
       </motion.div>

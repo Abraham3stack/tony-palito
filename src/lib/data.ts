@@ -200,4 +200,5 @@ export const contactData = {
   email: "tonyojeabulu@gmail.com",
   instagram: "https://www.instagram.com/toni_palito6?igsh=MW1ua2h1OG5jbWY3dw==",
   youtube: "https://youtube.com/@coachtoni-98?si=A8CBHNxRCMFSAmC3",
+  facebook: "https://www.facebook.com/share/1Aqnvb4qvb/?mibextid=wwXIfr"
 };
