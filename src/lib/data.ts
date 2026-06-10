@@ -110,7 +110,7 @@ export const galleryImages = [
   },
   { 
     id: 3, 
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776245173/att.31uAMRjeik-O9ReZr4r13ReXm-DbncIOvoVfE6C4CnE_w2s88l.jpg" 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115840/att._gdsjoo5N6imxgmWv2XQ-cj89GEfEInunaMJygRmkZU_ff8ukq.jpg" 
   },
   { 
     id: 4, 
@@ -142,7 +142,7 @@ export const galleryImages = [
   },
   { 
     id: 11, 
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776245611/att.vtCuAEH5c1X7DQK2tSiRC-xl9xHNMhR_E4206T2yumk_c41pgl.jpg" 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115847/att.xGoPFytJ4SRYcX1Yu30-gbCUAkU4nfm2Z_kkLSDLTfE_nbhuwl.jpg" 
   },
   { 
     id: 12, 
@@ -150,15 +150,31 @@ export const galleryImages = [
   },
   { 
     id: 13, 
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776245690/att.EXx-5BiPTlDVdzIqQmoUGRBvvYvlE6Q6FwZlsQsAqv4_jemire.jpg" 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115845/att.jEhmLQQL3OFyg62U_wtN9Qu-LwAjBjSQfqoW5Dn1wnU_belyeu.jpg" 
   },
   { 
     id: 14, 
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776245797/att.Vme-t24U_jBWUNFigBSpJka44IMPgFeQuyqVjOODoZw_plucfr.jpg" 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115844/att.dS61GSLWfSkWafiwG97pfM0kiYK7D60KCOti94a_E3c_dr7cut.jpg" 
   },
   { 
     id: 15, 
-    image: "https://res.cloudinary.com/dwbfks5og/image/upload/q_auto/f_auto/v1776245827/att.ZBl7cGgsGYG8403lEfAmBmX83iMSiEsSRkJMRFJdcy4_dsxmhl.jpg" 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115845/att.m--L7o8UPrC55WAXj_S19SPrfj8YZ482nQCtWCCJ8aA_lbgpox.jpg" 
+  },
+  { 
+    id: 16, 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115846/att.RWpKp-ndJmVf4qpDARwFu2PU1YFCnqBJgQYUv79jovE_za8ims.jpg" 
+  },
+  { 
+    id: 17, 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115845/att.fnc9YmwAMRN_gDrJa9kQFC-7sUco1prq07hPjONu3xk_mbsbfe.jpg" 
+  },
+  { 
+    id: 18, 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115841/att.48pmq9K6Bnjvh4H5sNOwjAlKQo-zHmuyQ3xL7n8QloU_e0yjjn.jpg" 
+  },
+  { 
+    id: 19, 
+    image: "https://res.cloudinary.com/dwbfks5og/image/upload/v1781115844/att.nZ48BtlCj7Y9eCJNuhS4Q-6oBDqXrKwGoaNotBUxJnI_e5wt2c.jpg" 
   },
 ];
 
